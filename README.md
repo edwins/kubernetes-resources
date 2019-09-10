@@ -2,8 +2,18 @@ This repo represents a personally-curated list of kubernetes resources of projec
 
 ## Projects to adopt or evaluate
 
+### Security, registries & images
+* **[Anchore](https://docs.anchore.com)**
+ Github: https://github.com/anchore/anchore-engine
+ Homepage: https://docs.anchore.com/current/
 
-
+* **[Clair](https://coreos.com/clair/docs/latest/)**
+ Github: https://github.com/coreos/clair
+ Homepage: https://coreos.com/clair/docs/latest/
+ 
+ **Articles**
+ - "How to implement Docker image scanning with open source tools" https://sysdig.com/blog/docker-image-scanning/
+ 
 ## Projects to monitor
 * **[Cloud Events](https://cloudevents.io/)**
  Github:
