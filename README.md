@@ -29,4 +29,7 @@ This repo represents a personally-curated list of kubernetes resources of projec
   Github:
   Homepage: https://kubeedge.io
   Notes: For managing kuberntes at the edge
-  
+
+## Other interesting projects
+
+* **[Kopf Operator](https://github.com/embano1/kopf-operator-vmworld)**: Python operator to manage VMWare VMs
