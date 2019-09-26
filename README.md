@@ -33,3 +33,6 @@ This repo represents a personally-curated list of kubernetes resources of projec
 ## Other interesting projects
 
 * **[Kopf Operator](https://github.com/embano1/kopf-operator-vmworld)**: Python operator to manage VMWare VMs
+
+## Research Articles
+* **Design patterns for container-based distributed systems](https://dl.acm.org/citation.cfm?id=3027059)**: https://dl.acm.org/citation.cfm?id=3027059
